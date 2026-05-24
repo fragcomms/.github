@@ -1,6 +1,9 @@
 ## Hi there 👋
 The link below will showcase our project on its progress update for 3/16/2026:
 https://www.youtube.com/watch?v=kaPThi6pRCg&feature=youtu.be
+
+Actual demo:
+https://youtu.be/wZzV8NQk8VY
 <!--
 
 **Here are some ideas to get you started:**
